@@ -59,3 +59,19 @@ form > * {
     text-align: block;
     padding-left: 10px;
 }
+
+textarea {
+    width: 100%;
+    height: 100%;
+}
+
+.largeInput {
+    width: 98%;
+}
+.hideBorder {
+    border: 0px
+}
+
+.large {
+    height: 630px;
+}
